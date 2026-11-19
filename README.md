@@ -1,5 +1,9 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:02-11-26
+## REG NO : 26017329
+## NAME: M RAMYA
+
+
 ## AIM:
 To create a 3D model from given orthographic projection.
 
